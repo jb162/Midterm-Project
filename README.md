@@ -39,13 +39,13 @@ Advanced Analysis
 2. How does each platform perform based on movie rating and movie quantity breakdown?
  
 
-Analysis 1: Age & Movie Quantity
+Advanced Analysis 1: Age & Movie Quantity
 
 -We found that the streaming platform that offer the most movies for 18+ is Prime Video, Netflix, and Hulu respectively. Disney+ offers the highest number of movies for 
  all demographics. 
 
 
-Anaylsis 2: Movie Rating and Movie Quantity
+Advanced Anaylsis 2: Movie Rating and Movie Quantity
 
 -We found that Prime Video offers the greatest quantity of movies (4100), but this finding does not take into account the rating of movies. A score of 60% or greater indicates
  a "fresh" status. Only 876/4100 or 21.4% of Prime Video movies meet this criteria. After filtering out movies that did not recive a "Fresh" status via Rotten Tomatoes' 
