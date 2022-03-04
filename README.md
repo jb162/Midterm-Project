@@ -2,7 +2,6 @@
 
 Contributors: Nyat Araya, Justin Baytosh, Mahederemariam Dagne, Frank King
 
-
 Purpose
 
 In this project, there were comparisons done on various platforms (Netflix, Prime Video, Hulu and Disney+), and their movie offerings. The significance of this project is that 
@@ -16,21 +15,30 @@ Analysis
 2. Which streaming platform offers the highest number of movies?
 3. Which streaming platform provides movies with better Rotten Tomatoes scores?
 
+Cleaning
+
+To do the analysis we had to cleanr the data set and remove redundant rows. We used group by and aggreage functions for mean and average to condense the data and review it.
+
 
 Analysis 1: Movie Release Year
+
+We categorized the movies for each year and used a line chart to see which streaming platform offers the most recent movies.
 
 -We found that the streaming platform that offers the most recent movies is Netflix, followed by Prime Video, Hulu then Disney+.
 
 
 Anaylsis 2: Movie Quantity 
 
+We grouped the movies based on streaming platform and perfomed a value count to calculate the number of movies. We used a bar chart to show the values.
+
 -We found that Amazon's Prime Video has the hihgest number of movies at 4100, Netflix(3550), Hulu(943) and Disney+(922).
 
 
 Analysis 3: Movie Rating
 
--We found that Hulu has the highest average rating compared to the 4 popular streaming platforms. 
+In order to asses the movie rating we grouped the streaming platform based on rating and calculated their average rating.
 
+-We found that Hulu has the highest average rating compared to the 4 popular streaming platforms. 
 
 
 Advanced Analysis
@@ -41,9 +49,9 @@ Advanced Analysis
 
 Advanced Analysis 1: Age & Movie Quantity
 
--We found that the streaming platform that offer the most movies for 18+ is Prime Video, Netflix, and Hulu respectively. Disney+ offers the highest number of movies for 
- all demographics. 
+We used a bar chart to show both the age and movie quantity for each streaming platform.
 
+-We found that the streaming platform that offer the most movies for 18+ is Prime Video, Netflix, and Hulu respectively. Disney+ offers the highest number of movies for all demographics. If customers are looking for family movies or investors want to advertise products that cater more to families they could use Disney +. If it is a group above 18 and they want to watch more adult movies or an investor has a target market of above 18 the they would pick Amazon Prime and second Netflix since this two have a higher number of movies for suited for this specific demographic.
 
 Advanced Anaylsis 2: Movie Rating and Movie Quantity
 
@@ -53,10 +61,7 @@ Advanced Anaylsis 2: Movie Rating and Movie Quantity
  into account movie ratings, Netflix offers the greatest quantity of movies with "Fresh" status.
 
 
-
-
 Conclusion
 
-Through our analysis, we identified that Netflix is the streaming platform with the most recent movies. Amazon Prime offers the largest selection of movies compared to 
-other platforms and Netflix has the highest number of movies rated "Fresh" on Rotten Tomatoes.
+Through our analysis, we identified that Netflix is the streaming platform with the most recent movies. Amazon Prime offers the largest selection of movies compared to other platforms and Netflix has the highest number of movies rated "Fresh" on Rotten Tomatoes. Therefore based on what we have found depending on what the investors goal is or what a customer's needs are they could choose a specific platform to cater to their needs.
 
