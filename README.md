@@ -17,7 +17,7 @@ Analysis
 
 Cleaning
 
-To do the analysis we had to cleanr the data set and remove redundant rows. We used group by and aggreage functions for mean and average to condense the data and review it.
+To do the analysis we had to clean the data set and remove redundant rows. We used group by and aggreage functions for mean and average to condense the data and review it.
 
 
 Analysis 1: Movie Release Year
@@ -31,7 +31,7 @@ Anaylsis 2: Movie Quantity
 
 We grouped the movies based on streaming platform and perfomed a value count to calculate the number of movies. We used a bar chart to show the values.
 
--We found that Amazon's Prime Video has the hihgest number of movies at 4100, Netflix(3550), Hulu(943) and Disney+(922).
+-We found that Amazon's Prime Video has the highest number of movies at 4100, Netflix(3550), Hulu(943) and Disney+(922).
 
 
 Analysis 3: Movie Rating
